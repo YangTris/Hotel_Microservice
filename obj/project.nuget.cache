@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "wy0TdsApohg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dvtri\\Desktop\\Hotel_Microservice\\MyCarterApp\\MyCarterApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dvtri\\.nuget\\packages\\carter\\9.0.0\\carter.9.0.0.nupkg.sha512",
+    "C:\\Users\\dvtri\\.nuget\\packages\\carter.analyzers\\9.0.0\\carter.analyzers.9.0.0.nupkg.sha512",
+    "C:\\Users\\dvtri\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\dvtri\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.4\\microsoft.codeanalysis.analyzers.3.3.4.nupkg.sha512",
+    "C:\\Users\\dvtri\\.nuget\\packages\\microsoft.codeanalysis.common\\4.11.0\\microsoft.codeanalysis.common.4.11.0.nupkg.sha512",
+    "C:\\Users\\dvtri\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.11.0\\microsoft.codeanalysis.csharp.4.11.0.nupkg.sha512",
+    "C:\\Users\\dvtri\\.nuget\\packages\\microsoft.extensions.dependencymodel\\9.0.0\\microsoft.extensions.dependencymodel.9.0.0.nupkg.sha512",
+    "C:\\Users\\dvtri\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\dvtri\\.nuget\\packages\\system.reflection.metadata\\8.0.0\\system.reflection.metadata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
